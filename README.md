@@ -23,3 +23,34 @@ test preparation course, and subject scores.
 - Female students performed better in reading and writing.
 - Male students scored slightly higher in mathematics.
 - Students who completed test preparation performed better overall.
+
+# Task 2: Data Visualization using Power BI
+
+This project is part of the CodeAlpha Data Analytics Internship.
+
+## Objective
+The objective of this task is to create an interactive and insightful
+data visualization dashboard to analyze sales performance.
+
+## Dataset
+The dataset used contains sales transaction details such as:
+- Product Line
+- Country
+- Order Date
+- Sales
+- Quantity Ordered
+
+## Dashboard Features
+- Total Sales (Card)
+- Total Quantity Sold (Card)
+- Sales by Product Line (Bar Chart)
+- Sales by Country (Column Chart)
+- Monthly Sales Trend (Line Chart)
+
+## Tool Used
+- Microsoft Power BI
+
+## Outcome
+The dashboard provides a clear overview of sales performance,
+helping to identify top-performing products, regions, and sales trends over time.
+
