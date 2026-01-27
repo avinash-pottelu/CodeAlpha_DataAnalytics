@@ -54,3 +54,23 @@ The dataset used contains sales transaction details such as:
 The dashboard provides a clear overview of sales performance,
 helping to identify top-performing products, regions, and sales trends over time.
 
+# Task 3: Web Scraping
+
+This task is part of the CodeAlpha Data Analytics Internship.
+
+## Objective
+To collect structured data from a website using web scraping techniques.
+
+## Website
+IMDB Top Movies
+
+## Data Collected
+- Movie Title
+- Movie URL
+
+## Tool Used
+- ParseHub (No-code web scraping tool)
+
+## Outcome
+The data was successfully extracted and exported as a CSV file for further analysis.
+
